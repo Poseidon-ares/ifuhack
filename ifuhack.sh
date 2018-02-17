@@ -16,7 +16,7 @@ echo -e "|                   #Fully Undetectable#                   |"
 echo -e "|              #Metasploit Payload Generator#              |"
 echo -e "|          #Tested on Debian Jessie and Kali Linux#        |"
 echo -e "|———————————#—————————————————#——————————————————#—————————|"
-echo -e "|                                            PasahitZ 2017 |"
+echo -e "|                                           Prixomic Group |"
 echo -e "\==========================================================/"
 echo ""
 sleep 2
