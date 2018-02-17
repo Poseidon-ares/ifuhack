@@ -1,10 +1,12 @@
 #!/bin/bash
-cat << !                                            
+cat << !                 
+			IFuHacK
                          ___      ____              
 	       /\   /\  / _ \    |___ \             
 	       \ \ / / | | | |     __) |            
 	        \ V /  | |_| | _  / __/             
 	         \_/    \___/ (_)|_____| 
+	       Created by Estiuck Al Regun
 
 !
 
